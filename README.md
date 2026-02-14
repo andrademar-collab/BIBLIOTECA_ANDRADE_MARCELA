@@ -10,9 +10,16 @@ Brinda el servicio de préstamo de libros físicos de manera gratuita y segura.
 IMPORTANTE:
 La presentación está subida en formato pdf. Dentro de la misma se encuentra el Diagrama E-R.
 También se puede acceder a la presentación, mediante el siguiente link:
+
 https://www.canva.com/design/DAHBPHSH57I/UaWIgGsuhOZ4Dv60nOQc2g/edit?utm_content=DAHBPHSH57I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Se encuentra habilitada la opción de comentar.
 
 Quedo atenta a sus correcciones y sugerencias.
 
 Gracias!
+
+
+PD: Me disculpo nuevamente por la tardanza con el plazo de la entrega, y agradezco por la paciencia.
+
+Atte: Marcela Andrade L.
