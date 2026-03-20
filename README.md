@@ -22,7 +22,7 @@ Preentrega #2:
   Me comunico por este medio, ya que intenté mandarte un mensaje por la plataforma de coder pero no obtuve respuesta.
   Quería comentarte que en las últimas semanas estuve rindiendo exámenes de mi universidad y sumado a eso, tuve que reorganizar por completo mis horarios debido al inicio del nuevo cuatrimestre. Este proceso de adaptación     me tomó algo más de tiempo del previsto y, lamentablemente, me atrasé un poco con el contenido de las últimas clases del curso.
 
-  Logré avanzar mucho con los contenidos de la clase, pero aun me queda completar mi trabajo. Por este motivo, quería pedirte si sería posible contar con un par de días extra para entregar mi trabajo práctico. Mi intención    es poder completarlo para el viernes y entregarlo como corresponde.
+  Logré avanzar mucho con los contenidos de la clase, pero aun me queda completar mi trabajo. Por este motivo, quería pedirte si sería posible contar con un par de días extra para entregar mi trabajo práctico. Mi intención    es poder completarlo para el sábado y entregarlo como corresponde.
   
   Quedo al pendiente de tu respuesta!
 
