@@ -1,31 +1,26 @@
 TRABAJO PRÁCTICO
 
-Preentrega #1:
-
-  Proyecto Biblioteca es una organización sin fines de lucro que busca fomentar la lectura en jóvenes y adolescentes, a partir de los 16 años.
-  Cuenta con un amplio catálogo de libros, especialmente pensado para el interés y el entretenimiento de los jóvenes.
-  Brinda el servicio de préstamo de libros físicos de manera gratuita y segura.
-
-
-  IMPORTANTE:
-  La presentación está subida en formato pdf. Dentro de la misma se encuentra el Diagrama E-R.
-  También se puede acceder a la presentación, mediante el siguiente link:
-
-  https://www.canva.com/design/DAHBPHSH57I/UaWIgGsuhOZ4Dv60nOQc2g/edit?utm_content=DAHBPHSH57I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-  Se encuentra habilitada la opción de comentar.
+Proyecto Biblioteca es una organización sin fines de lucro que busca fomentar la lectura en jóvenes y adolescentes, a partir de los 16 años.
+Cuenta con un amplio catálogo de libros, especialmente pensado para el interés y el entretenimiento de los jóvenes.
+Brinda el servicio de préstamo de libros físicos de manera gratuita y segura.
 
 Preentrega #2:
 
-  Buenas noches Matias!
-  
-  Me comunico por este medio, ya que intenté mandarte un mensaje por la plataforma de coder pero no obtuve respuesta.
-  Quería comentarte que en las últimas semanas estuve rindiendo exámenes de mi universidad y sumado a eso, tuve que reorganizar por completo mis horarios debido al inicio del nuevo cuatrimestre. Este proceso de adaptación     me tomó algo más de tiempo del previsto y, lamentablemente, me atrasé un poco con el contenido de las últimas clases del curso.
+Hola Matias!
 
-  Logré avanzar mucho con los contenidos de la clase, pero aun me queda completar mi trabajo. Por este motivo, quería pedirte si sería posible contar con un par de días extra para entregar mi trabajo práctico. Mi intención    es poder completarlo para el sábado y entregarlo como corresponde.
-  
-  Quedo al pendiente de tu respuesta!
+Me comunico por este medio para comentarte sobre mi segunda preentrega.
+Había solicitado unos días adicionales para realizar la entrega, pero entre los problemas del campus (que me afectaron para acceder a parte del material de clases) y la carga horaria de las materias de la universidad, me demoré más de lo previsto.
+De todas formas, me comuniqué con coderhouse y continué avanzando con el trabajo hasta que finalmente lo completé.
 
-  Saludos!
+Quería conusltarte si no hay inconveniente en que se considere esta versión actualizada de mi trabajo para la corrección, teniendo en cuenta la situación general de la plataforma.
 
-  Atte: Marcela Andrade L.
+Dentro del repositorio cargué el script que contiene la creación de la base de datos y de todos los objetos en ella, junto a la inserción de datos. Por otro lado, la presentación que contiene todos los detalles técnicos era muy pesada para subirla, así que te comparto el link para acceder a la misma:
+https://www.canva.com/design/DAHBPHSH57I/UaWIgGsuhOZ4Dv60nOQc2g/edit?utm_content=DAHBPHSH57I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Se ecuentra habilitada la opción de comentar.
+
+Quedo al pendiente de tu respuesta y de cualquier corrección!
+
+Saludos!
+
+Atte: Marcela Andrade L.
