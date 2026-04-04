@@ -1,6 +1,6 @@
 TRABAJO PRÁCTICO
 
-Proyecto Biblioteca es una organización sin fines de lucro que busca fomentar la lectura en jóvenes y adolescentes, a partir de los 16 años.
+Proyecto Biblioteca es una organización sin fines de lucro que busca fomentar la lectura en jóvenes y adolescentes de 16 a 26 años.
 Cuenta con un amplio catálogo de libros, especialmente pensado para el interés y el entretenimiento de los jóvenes.
 Brinda el servicio de préstamo de libros físicos de manera gratuita y segura.
 
